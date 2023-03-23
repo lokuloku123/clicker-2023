@@ -26,7 +26,7 @@ function OnButtonClick(){
     document.getElementById("button").style.height = diametrs.toString() + "px";    
 
 if(diametrs <= 5){
-    document.getElementById("score").innerHTML = "You have skill issue!";
+    document.getElementById("score").innerHTML = "You have massive skill issue!";
 }
 }
 
